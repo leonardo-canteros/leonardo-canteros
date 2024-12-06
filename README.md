@@ -8,7 +8,8 @@
 
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 - :school: I am a `Junior` at [Universidad Nacional Del Nodeste](https://cst.buaa.edu.cn/](https://exa.unne.edu.ar/ingresantes-web/index.php/licenciatura-en-sistemas-de-la-informacion/))
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
+- :trophy: `2024` Certification in **[Full Stack Development](https://www.devlights.com/certificados/12345](https://drive.google.com/file/d/1dcmyWxYlJhoZMUbobXF9g3GbL-d5_Meq/view?usp=sharing))** by **DevLights**
+- :trophy: `2024` Certificación en **[Administración de Redes y Telecomunicaciones](https://www.telco.com/certificados/67890)** by **Telco**
 - :technologist: **Currently working on** `Full Stack Developer`
 - :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
