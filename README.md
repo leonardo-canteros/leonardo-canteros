@@ -12,7 +12,7 @@
 - :technologist: **Currently working on** `Full Stack Developer`
 - :email: Feel free to **reach me out** [Send me Email](mailto:leonardocanteros2001@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
-
+<br>
 <br></br>
 
 ## 🛠️ My Skills
