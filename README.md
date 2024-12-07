@@ -7,7 +7,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me 
 
  <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-- :school: I am a `Junior` at [Universidad Nacional Del Nodeste](https://cst.buaa.edu.cn/](https://exa.unne.edu.ar/ingresantes-web/index.php/licenciatura-en-sistemas-de-la-informacion/))
+- :school: I am a `Junior` at [Universidad Nacional Del Nodeste](https://exa.unne.edu.ar/ingresantes-web/index.php/licenciatura-en-sistemas-de-la-informacion/)
 - :trophy: `2024` Certification in **[Full Stack Development](https://drive.google.com/file/d/1dcmyWxYlJhoZMUbobXF9g3GbL-d5_Meq/view?usp=sharing)** by **[DevLights](https://devlights.com/en/bootcamp)**
 - :technologist: **Currently working on** `Full Stack Developer`
 - :email: Feel free to **reach me out** [Send me Email](mailto:leonardocanteros2001@gmail.com)
